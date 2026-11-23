@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "LUPE CHAT",
+    "slug": "lupe-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.lupechat.social",
+      "adaptiveIcon": {
+        "backgroundColor": "#6D4AFF"
+      }
+    }
+  }
+}
